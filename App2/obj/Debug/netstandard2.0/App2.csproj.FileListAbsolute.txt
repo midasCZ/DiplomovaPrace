@@ -1,0 +1,12 @@
+D:\Users\Martik\Documents\Visual Studio 2017\Projects\App2\App2\App2\bin\Debug\netstandard2.0\App2.deps.json
+D:\Users\Martik\Documents\Visual Studio 2017\Projects\App2\App2\App2\bin\Debug\netstandard2.0\App2.dll
+D:\Users\Martik\Documents\Visual Studio 2017\Projects\App2\App2\App2\bin\Debug\netstandard2.0\App2.pdb
+D:\Users\Martik\Documents\Visual Studio 2017\Projects\App2\App2\App2\obj\Debug\netstandard2.0\App2.csprojAssemblyReference.cache
+D:\Users\Martik\Documents\Visual Studio 2017\Projects\App2\App2\App2\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\Martik\Documents\Visual Studio 2017\Projects\App2\App2\App2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\Martik\Documents\Visual Studio 2017\Projects\App2\App2\App2\obj\Debug\netstandard2.0\App2.csproj.CoreCompileInputs.cache
+D:\Users\Martik\Documents\Visual Studio 2017\Projects\App2\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfoInputs.cache
+D:\Users\Martik\Documents\Visual Studio 2017\Projects\App2\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfo.cs
+D:\Users\Martik\Documents\Visual Studio 2017\Projects\App2\App2\App2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\Martik\Documents\Visual Studio 2017\Projects\App2\App2\App2\obj\Debug\netstandard2.0\App2.dll
+D:\Users\Martik\Documents\Visual Studio 2017\Projects\App2\App2\App2\obj\Debug\netstandard2.0\App2.pdb
